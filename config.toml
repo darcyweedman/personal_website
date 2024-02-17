@@ -1,0 +1,18 @@
+baseURL = "https://darcyw.dev"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = "Work in Progress" 
+    description = "Darcy Weedman"
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "June 30, 2024" 
+    background = "" 
+
+socialIcons = [
+    {name = "email", url = "d.weedman@uq.net.au"},      
+    {name = "github", url = "https://github.com/darcyweedman"},    
+    {name = "instagram", url = "https://instagram.com/darcyweedman"},    
+] 
+
